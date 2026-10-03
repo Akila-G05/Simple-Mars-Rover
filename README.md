@@ -112,3 +112,6 @@ The web server exposes the following endpoints, all `POST`:
 - Command handlers do not authenticate requests; anyone on the access point can drive the
   rover.
 - The camera stream is served by a separate device on the network, not by the ESP32.
+## License
+
+MIT — see [LICENSE](LICENSE).
